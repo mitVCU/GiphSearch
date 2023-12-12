@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0FDD7E7-9BE7-4476-94A6-172ADE0B6CD0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1C25E41-020C-4FAF-8BC7-5701C098E929"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GiphSearch/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "request(type:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1C25E41-020C-4FAF-8BC7-5701C098E929 - 4c4abe4f8b1bd05c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static GiphSearch.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(GiphSearch.GifEndpoint) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "GiphSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitamin/Developer/iOS/GiphSearch/GiphSearch/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "B1C25E41-020C-4FAF-8BC7-5701C098E929 - 305aa2040c24353d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static GiphSearch.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: &#x3c4;_0_0.Type, _: GiphSearch.GifEndpoint) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "GiphSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitamin/Developer/iOS/GiphSearch/GiphSearch/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
